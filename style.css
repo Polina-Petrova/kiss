@@ -1,0 +1,105 @@
+.logo {
+  padding: 5px 5px 15px 15px ;
+}
+
+.name {
+  position: relative;
+  top: -35px;
+}
+
+.caption {
+  position: relative;
+  top: -35px;
+  left: 53px;
+}
+
+.wrap {
+  display: block;
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.image-text {
+  background-color: #ab6f80;
+}
+
+.block-2 {
+  padding-top: 25px;
+  background-color: #fdbd1f;
+}
+
+
+
+ .block-2 .btn {
+  background-color: #ab6f80;
+  color: #fdbd1f;
+}
+
+.block-3 .btn {
+  background-color: #fdbd1f;
+  color: white;
+}
+
+/*.block-3 span {
+  color: #fdbd1f;
+}*/
+
+.block-3 p {
+  color: #978489;
+}
+
+.block-3 h2 {
+  color: #ab6f80;
+}
+
+.block-4 {
+  background-color: #ab6f80;
+  color: white;
+}
+
+.block-4 p {
+  color: #fdbd1f;
+}
+
+.block-4 .btn {
+  color: #ab6f80;
+}
+
+.block-5 .img-1 {
+  transform: rotate(180deg);
+}
+
+.block-5 h2 {
+  color: #ab6f80;
+}
+
+.block-5 span {
+  color: #fdbd1f;
+}
+
+/*.block-5 p {
+  color: #9e8e92;
+}*/
+
+.footer span {
+  color: #9e8e92;
+}
+
+/* === */
+
+.white {
+  color: white;
+}
+
+.gray {
+  color: #9e8e92;
+}
+
+.yellow {
+  color: #fdbd1f;
+}
+
+.pink {
+  /*color: #ab6f80;*/
+  color: red;
+}
